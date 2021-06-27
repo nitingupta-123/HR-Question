@@ -1,0 +1,62 @@
+1) Tell me a little about yourself.
+Ans:  
+- My name is Nitin Gupta.
+-I am from Alwar District.
+-I did my 10th class form Indra Happy SR. SEC. School and I got 91.5% in RBSE board.
+-I did my 12th class form Achiever's Public SR. SEC. School and I scored 96.33% in PCM in RBSE Board.
+-Currently,I am persuing my bachelors degree from Rajathan Technical University,Kota. I am doing Specialization in Computer Science.
+-My overall CGP is 9.27.I am CP Lead in Codechef Campus Chapter RTU.
+-I have keen intrest in coding. I have solved 500+ DS Algo problems on coding platform.
+-Along with that I have done specialization course in FULL STACK WEB DEVELOPMENT in javascript.
+-I am a dedicated person who never stops working on something until I give my best.(any example)
+-I believe my career at this company would provide me an opportunity to develop my skills.
+-And I will give my best to fullfill every responsibilities assignedot3 to me.
+-At the moment, I am looking for a chance to apply my problem-solving skills at an innovative company like this one.(optional)
+
+2) Why do you want to work for this company?
+Ans:
+if the company is well known one
+	-I would be proud to work for a company like this one as it is one of the big and fortune company to work with.
+else
+	-I am impressed by the company's future vision and the kind service(or product) that company provides.
+
+-Company believes in providing superior service to its Client and I share the same quality(go to the company website).And thats why I belive that I 
+will be a good fit for the company.
+-And I will be able to bring lot of value to the team that I will be working with.
+-And As a fresher in this field I am curious to learn new things and grow my carrer with company's growth.
+
+
+3) Are you willing to travel? 4)
+Ans.
+-Yes. I love traveling. Moving to new places, meeting to new people and sharing ideas is always a good exprience.
+
+
+4)What would you consider your greatest strengths & weakness?6) 
+Ans:
+Weakness:
+	-Sometimes I become impatient in order to get things done quickly.And I ended with messing up with things.To tackle this I schedulize my activities
+	so I can do things in an efficient and organised way.
+
+	-Another Issue  I have is focus issue. I get disattracted beacause of unnecessary thoughts.And I get enggage with them which kills my time.
+	To minimize this issue. I practice yoga and mediation on daily basis.
+Stength:
+	 (how you can apply your strength for the company)
+	-I am a dedicated and self-motivated Person who always try to give its best.I don’t stop until I get things done.
+	(web development and Coding Journey)
+	-I am a good team player and I am always accoutable to my work and I try to give my best in my work.
+
+5) What motivates you? 7)
+Ans:
+-My ability to work hard and delivering result motivates me.
+-When I see myself being productive every day, it motivates me to continue. 
+-Also recognition of my efforts gives me the encouragement for my next efforts.
+
+6)Why should we hire you? 12)
+(Also find what company needs ,what unique you have)
+Everyone needs a platform to showcase their skills and so do I. I am always dedicated to my work. I am one of those candidates 
+who prefer enjoying the work instead of doing it. All I need a chance to prove myself. I can assure you I will give my best.
+
+
+
+
+
